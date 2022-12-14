@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Nonkululeko Mhlongo 
 - 👀 I’m interested in Software Development 
-- 🌱 I’m currently learning cloud computing technologies 
+- 🌱 I’m currently learning Angular 15, Web API, .NET6, Microservices, CI/DC Pipelines
 - 📫 How to reach me nmhlongo880@gmail.com 
-
